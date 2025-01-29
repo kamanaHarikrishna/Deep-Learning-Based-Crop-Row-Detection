@@ -11,7 +11,7 @@ Traditional crop row detection methods struggle due to:
 - **Need for real-time, high-accuracy segmentation** to enable autonomous farming vehicles.  
 
 ## 🏆 Achievements  
-- **Ranked 3rd** out of 80 teams at Purdue University’s **Deep Learning Challenge 2024**.  
+- **Ranked 3rd** out of 40 teams at Purdue University’s **Deep Learning Challenge 2024**.  
 - Developed an optimized **U-Net-based crop row detection model** for real-time precision agriculture.  
 - Improved **segmentation accuracy and model efficiency** using advanced data processing techniques.  
 
